@@ -3,6 +3,8 @@ In this project I have tried to predict mean daily temperature for next 3 days f
 (prediction from single datapoint). Data gathered from: https://power.larc.nasa.gov/data-access-viewer/ .
 For now it have been done with linear regresion and simple Neural network, geting average prediciton error for 3 days with best models around ~2.16*C for LL and ~2.05*C for NN.
 
+Data is learnt on daily mesurements beetween years 01.01.2015 and 31.12.2019
+
 The project is sapareted into parts:
 - Data Analize
 - Linear_regression prediction
