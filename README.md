@@ -13,7 +13,7 @@ The project is sapareted into parts:
 
 Data analize shall be run before prediction files to prepere the data.
 
-Further description and conclusions of separete methods in jupyter-notebook files.
+Further description and conclusions for each method in jupyter-notebook files.
 
 Currently workng on: get more data from different places on the map from api and predict temperature with better accuracy and longer period (5 days). 
 
